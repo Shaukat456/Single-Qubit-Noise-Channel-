@@ -25,7 +25,6 @@ setup(
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Education",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
@@ -35,7 +34,7 @@ setup(
     ],
     keywords="quantum computing, quantum noise, density matrices, Kraus operators",
     project_urls={
-        "Documentation": "https://github.com/user/quantum_noise",
-        "Source": "https://github.com/user/quantum_noise",
+        "Documentation": "https://github.com/shaukat456/quantum_noise",
+        "Source": "https://github.com/shaukat456/quantum_noise",
     },
 )
