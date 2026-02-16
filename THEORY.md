@@ -33,7 +33,7 @@ A pure quantum state is represented as a **2D complex vector** (for single qubit
 A **density matrix ρ** is the generalization to mixed states:
 
 ```
-ρ = [ρ₀₀  ρ₀₁]   (2×2 complex matrix)
+ρ = [ρ₀₀  ρ₀₁]   (2  ×  2   complex matrix)
     [ρ₁₀  ρ₁₁]
 ```
 
