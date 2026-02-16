@@ -130,8 +130,6 @@ def example_3_sequential_channels():
 # ============================================================================
 # Example 4: Use Bloch vectors (geometric representation)
 # ============================================================================
-
-
 def example_4_bloch_vectors():
     """Visualize quantum states on the Bloch sphere."""
     print("\n" + "=" * 70)
