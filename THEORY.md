@@ -37,6 +37,8 @@ A **density matrix ρ** is the generalization to mixed states:
     [ρ₁₀  ρ₁₁]
 ```
 
+===
+
 **Properties**:
 
 | Property        | Formula             | Meaning                                    |

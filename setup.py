@@ -34,7 +34,7 @@ setup(
     ],
     keywords="quantum computing, quantum noise, density matrices, Kraus operators",
     project_urls={
-        "Documentation": "https://github.com/shaukat456/quantum_noise",
-        "Source": "https://github.com/shaukat456/quantum_noise",
+        "Documentation": "https://github.com/Shaukat456/Single-Qubit-Noise-Channel-",
+        "Source": "https://github.com/Shaukat456/Single-Qubit-Noise-Channel-",
     },
 )
